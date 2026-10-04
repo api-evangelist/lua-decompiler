@@ -39,7 +39,6 @@ apis:
   - name: Lua Decompiler
     description: "Online Lua 5.1 Decompiler"
     humanURL: https://lua-decompiler.ferib.dev/
-    baseURL: https://lua-decompiler.ferib.dev/
     tags:
       - Development
     properties:
